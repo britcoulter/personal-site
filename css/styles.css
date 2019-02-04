@@ -1,0 +1,147 @@
+a {
+  color: #018790;
+  font-family: 'Raleway', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3c415e;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  color: #3c415e;
+  font-family: 'Noto Serif TC', serif;
+}
+
+h1 {
+  color: #f77754;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #f77754;
+  font-family: 'Raleway', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #018790;
+  font-family: 'Raleway', sans-serif;
+}
+
+hr {
+  border: dotted #738598 5px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+p {
+    line-height: 2;
+}
+/****************Class Selector*************/
+.top-container {
+  background-color: #d7eaea;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #d7eaea;
+  padding: 50px 0 20px;
+}
+
+.intro-description {
+  width: 30%;
+  margin: auto auto 100px;
+}
+
+.contact-description {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background: #018790;
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Raleway', sans-serif;
+  color: WHITE;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  margin: 30px auto;
+  text-decoration: none;
+}
+
+.footer-link {
+
+}
+
+.copyright {
+  color: #3c415e;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.skills {
+  margin: 50px auto 125px;
+}
+
+.skill-row {
+  margin: 50px auto 50px;
+  width: 50%;
+  text-align: left;
+}
+
+.contact-me {
+  margin: 50px auto 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+
+/************IMAGES************/
+.profile-pic {
+  height: 300px;
+  width: 250px;
+  border-radius: 100%;
+}
+
+.programming-icon {
+  margin-right: 30px;
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+}
+
+.limelife {
+  margin-left: 30px;
+  width: 25%;
+  float: right;
+}
